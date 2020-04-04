@@ -1,1 +1,4 @@
 this is third file fo smart git and hub
+
+
+this is second.txt file and update now.
